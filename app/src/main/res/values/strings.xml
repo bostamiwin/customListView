@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string-array name="text">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+    </string-array>
+</resources>
